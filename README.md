@@ -27,7 +27,7 @@ Includes product management, authentication, and shopping and order workflows.
 
 Technologies: Angular, TypeScript, PHP, Laravel, MySQL.
 
-[View Project](https://github.com/neazy05/learning-platform-advanced)
+[View Project](https://github.com/neazy05/e-commerce-portfolio)
 
 **Learning Platform — Course & Assignment Management**
 
