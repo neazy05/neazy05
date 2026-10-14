@@ -27,7 +27,15 @@ Includes product management, authentication, and shopping and order workflows.
 
 Technologies: Angular, TypeScript, PHP, Laravel, MySQL.
 
-View Project
+[View Project](https://github.com/neazy05/learning-platform-advanced)
+
+**Learning Platform — Course & Assignment Management**
+
+- A role-based learning platform for managing courses, lectures, assignments, and users.
+- Includes assignment submissions, file attachments, and real-time messaging integration.
+- **Technologies:** PHP, Laravel, Blade, Bootstrap, JavaScript, MySQL.
+
+[View Project](https://github.com/neazy05/learning-platform-advanced)
 
 🎯 Current Goals
 
