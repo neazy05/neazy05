@@ -4,7 +4,6 @@ M.Sc. Informatics Student at the University of Duisburg-Essen, Germany.
 
 I enjoy building web applications, solving technical problems, and understanding how software systems work. Through academic and personal projects, I have gained hands-on experience with frontend development, backend APIs, databases, and Python-based applications.
 
-I'm looking to grow as a software developer, contribute to a development team, and deepen my knowledge of clean code, testing, and maintainable software.
 
 ## Technical Skills
 
